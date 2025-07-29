@@ -4,7 +4,6 @@
 ![Cisco Networking](https://img.shields.io/badge/Cisco-Networking-green?logo=cisco&logoColor=white)
 ![Microsoft Educator](https://img.shields.io/badge/Microsoft-Educator-blue?logo=microsoft&logoColor=white)
 ![PMI-Ready](https://img.shields.io/badge/PMI-Ready-orange?logo=project-management&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Expert-yellow?logo=linux&logoColor=white)
 ![EdTech Consultant](https://img.shields.io/badge/Role-EdTech%20Consultant-purple)
 ![Web Developer](https://img.shields.io/badge/Web%20Dev-Python,%20JS,%20React,%20FastAPI-9cf)
 
